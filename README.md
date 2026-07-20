@@ -4,5 +4,5 @@ Dự án này sử dụng mô hình học sâu **ResNet50** (viết bằng PyTor
 
 ## 📦 Link tải Dữ liệu và Mô hình
 Do file quá lớn, bạn vui lòng tải file mô hình (.pth) và dữ liệu tại đây:
-* [Link tải Bộ dữ liệu gốc (Garbage classification.zip)](#https://drive.google.com/drive/folders/1TPMHXCUvPw994UA4PncOFKx8Uf5rsWYo?usp=sharing)
-* [Link tải Mô hình đã huấn luyện (resnet50_eco_sorter.pth)](#https://drive.google.com/drive/folders/1TIqmqe-IqUdKBxgVbsGnIab0U93k2wmN?usp=sharing)
+* [Link tải Bộ dữ liệu gốc (Garbage classification.zip)](https://drive.google.com/drive/folders/1TPMHXCUvPw994UA4PncOFKx8Uf5rsWYo?usp=sharing)
+* [Link tải Mô hình đã huấn luyện (resnet50_eco_sorter.pth)](https://drive.google.com/drive/folders/1TIqmqe-IqUdKBxgVbsGnIab0U93k2wmN?usp=sharing)
